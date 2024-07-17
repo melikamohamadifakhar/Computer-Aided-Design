@@ -1,0 +1,18 @@
+45
+~E 1 "../src/sMachine.vhd" 5 BinaryMultipleOf3
+~A 1 "../src/sMachine.vhd" 14 Behavioral
+~E 1 "../src/TestBench/binarymultipleof3_TB.vhd" 4 binarymultipleof3_tb
+~A 1 "../src/TestBench/binarymultipleof3_TB.vhd" 7 TB_ARCHITECTURE
+~E 1 "../src/sMachine.vhd" 5 DivisibleByThree
+~A 1 "../src/sMachine.vhd" 17 Behavioral
+~E 1 "../src/TestBench/divisiblebythree_TB.vhd" 4 divisiblebythree_tb
+~A 1 "../src/TestBench/divisiblebythree_TB.vhd" 10 TB_ARCHITECTURE
+~E 1 "../src/sMachine.vhd" 4 MultipleOf3StateMachine
+~A 1 "../src/sMachine.vhd" 16 Behavioral
+~E 1 "../src/sMachine.vhd" 4 simple
+~A 1 "../src/sMachine.vhd" 11 Behavior
+~E 1 "../src/TestBench/simple_TB.vhd" 4 simple_tb
+~A 1 "../src/TestBench/simple_TB.vhd" 7 TB_ARCHITECTURE
+~C 1 "../src/TestBench/binarymultipleof3_TB.vhd" 88 testbench_for_binarymultipleof3
+~C 1 "../src/TestBench/divisiblebythree_TB.vhd" 101 testbench_for_divisiblebythree
+~C 1 "../src/TestBench/simple_TB.vhd" 98 testbench_for_simple

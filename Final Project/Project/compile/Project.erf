@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: C:/Git/Term 6/CAD/Project/Project/src/TestBench/cache_TB.vhd" 
+MESSAGE "Compile Entity "cache_tb"" 
+MESSAGE "Compile Architecture "TB_ARCHITECTURE" of Entity "cache_tb"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]" 

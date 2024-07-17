@@ -1,0 +1,1 @@
+-w -erf "C:/Git/Term 6/CAD/Project/Project/compile/Project.erf" -d "C:/Git/Term 6/CAD/Project/Project/compile" -s "C:/Git/Term 6/CAD/Project/library.cfg" -j "C:/Git/Term 6/CAD/Project/Project/projlib.cfg" -work Project -O3 -e 100 -work Project -2002 "C:/Git/Term 6/CAD/Project/Project/src/TestBench/cache_TB.vhd" 

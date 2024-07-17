@@ -1,0 +1,44 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=stateMachine
+[Library]
+stateMachine=.\stateMachine\stateMachine.lib
+[$LibMap$]
+stateMachine=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=ONLY_IMPL
+ON_SERVERFARM_SYNTH=0
+ON_SERVERFARM_IMPL=0
+ON_SERVERFARM_SIM=0
+[IMPLEMENTATION]
+UCF=
+[Files]
+/sMachine.vhd=-1
+/state_machine.asdb=-1
+/state_machine.awc=-1
+TestBench/binarymultipleof3_TB.vhd=-1
+TestBench/binarymultipleof3_TB_runtest.do=-1
+[Files.Data]
+.\src\sMachine.vhd=VHDL Source Code
+.\src\state_machine.asdb=Accelerated Waveform File
+.\src\state_machine.awc=Accelerated Waveform Configuration
+.\src\TestBench\divisiblebythree_TB.vhd=VHDL Test Bench
+.\src\TestBench\divisiblebythree_TB_runtest.do=Macro
+.\src\TestBench\simple_TB.vhd=VHDL Test Bench
+.\src\TestBench\simple_TB_runtest.do=Macro
+.\src\TestBench\binarymultipleof3_TB.vhd=VHDL Test Bench
+.\src\TestBench\binarymultipleof3_TB_runtest.do=Macro
+[Groups]
+TestBench=1
+[HierarchyViewer]
+HierarchyInformation=divisiblebythree|Behavioral|0
+ShowHide=ShowTopLevel
+Selected=
